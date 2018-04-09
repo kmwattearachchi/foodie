@@ -3,6 +3,8 @@ PATH
   specs:
     foodie (0.1.0)
       activesupport (~> 4.2.0)
+      aruba
+      cucumber
       thor
 
 GEM
